@@ -1,5 +1,8 @@
 package com.group7.dao;
 
+import java.util.List;
+import java.util.Map;
+
 /**
  * className:EmpDao
  * discriptoin:
@@ -7,6 +10,11 @@ package com.group7.dao;
  * createTime:2018-11-21 20:01
  */
 public interface EmpDao {
-
+        /**
+         * 员工列表方法
+         * @param map
+         * @return
+         */
+        List<Map> getList(Map map);
 }
 
