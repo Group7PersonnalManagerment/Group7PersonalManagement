@@ -1,4 +1,4 @@
-package com.group7.pm.personalmanagement;
+package com.group7;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
