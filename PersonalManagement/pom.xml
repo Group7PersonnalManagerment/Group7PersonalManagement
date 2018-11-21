@@ -84,12 +84,6 @@
             <artifactId>shiro-ehcache</artifactId>
             <version>1.2.2</version>
         </dependency>
-        <!--热部署 Hot Swapping-->
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-devtools</artifactId>
-            <optional>true</optional>
-        </dependency>
         <!--模板thymeleaf包-->
         <dependency>
             <groupId>org.springframework.boot</groupId>
