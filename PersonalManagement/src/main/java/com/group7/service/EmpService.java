@@ -1,5 +1,7 @@
 package com.group7.service;
 
+import com.group7.entity.Emp;
+
 import java.util.List;
 import java.util.Map;
 
@@ -15,5 +17,5 @@ public interface EmpService {
      * @param map
      * @return
      */
-    List<Map> getList(Map map);
+    List<Emp> getList(Map map);
 }
