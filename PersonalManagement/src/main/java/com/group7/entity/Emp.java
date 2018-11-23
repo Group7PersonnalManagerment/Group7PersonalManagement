@@ -1,7 +1,6 @@
 package com.group7.entity;
 
 import java.io.Serializable;
-
 /**
  * className:Emp
  * discriptoin:

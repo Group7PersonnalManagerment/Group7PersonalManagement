@@ -10,12 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.List;
 import java.util.Map;
 
-/**
- * className:Hello
- * discriptoin:
- * author:毛宇
- * createTime:2018-11-21 19:16
- */
+
 @RestController
 public class Hello {
 	@Autowired

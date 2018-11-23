@@ -9,12 +9,7 @@ import org.springframework.stereotype.Service;
 import java.util.List;
 import java.util.Map;
 
-/**
- * className:EmpServiceImpl
- * discriptoin:
- * author:毛宇
- * createTime:2018-11-21 20:03
- */
+
 @Service
 public class EmpServiceImpl implements EmpService {
 
