@@ -1,12 +1,13 @@
 package com.group7.entity;
 
+import java.io.Serializable;
 /**
  * className:Emp
  * discriptoin:
  * author:毛宇
  * createTime:2018-11-09 15:52
  */
-public class Emp {
+public class Emp implements Serializable {
 
 	private Integer empNo;
 	private String  eName;
