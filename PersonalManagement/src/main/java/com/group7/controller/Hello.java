@@ -18,7 +18,7 @@ public class Hello {
 
 	@RequestMapping("/hello")
 	public Object print(){
-
+		System.out.println("5454");
 		return "hello springBoot hello springBoot!!!";
 	}
 
